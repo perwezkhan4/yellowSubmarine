@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yellowSubmarine/static/css/main.2d09d728.chunk.css",
+    "main.js": "/yellowSubmarine/static/js/main.687d2fa3.chunk.js",
+    "main.js.map": "/yellowSubmarine/static/js/main.687d2fa3.chunk.js.map",
+    "runtime-main.js": "/yellowSubmarine/static/js/runtime-main.8c5adfa6.js",
+    "runtime-main.js.map": "/yellowSubmarine/static/js/runtime-main.8c5adfa6.js.map",
+    "static/js/2.acba2bc3.chunk.js": "/yellowSubmarine/static/js/2.acba2bc3.chunk.js",
+    "static/js/2.acba2bc3.chunk.js.map": "/yellowSubmarine/static/js/2.acba2bc3.chunk.js.map",
+    "static/js/3.109dbf0a.chunk.js": "/yellowSubmarine/static/js/3.109dbf0a.chunk.js",
+    "static/js/3.109dbf0a.chunk.js.map": "/yellowSubmarine/static/js/3.109dbf0a.chunk.js.map",
+    "index.html": "/yellowSubmarine/index.html",
+    "static/css/main.2d09d728.chunk.css.map": "/yellowSubmarine/static/css/main.2d09d728.chunk.css.map",
+    "static/js/2.acba2bc3.chunk.js.LICENSE.txt": "/yellowSubmarine/static/js/2.acba2bc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c5adfa6.js",
+    "static/js/2.acba2bc3.chunk.js",
+    "static/css/main.2d09d728.chunk.css",
+    "static/js/main.687d2fa3.chunk.js"
+  ]
+}
